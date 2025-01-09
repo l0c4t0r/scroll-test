@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "test1",
   "license": "UNLICENSED",
   "scripts": {
     "codegen": "graph codegen",
